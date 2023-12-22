@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Python, Dart, [in the future] Carbon.
 - 💞️ I’m looking to collaborate on new RaspPi projects.
 - 🔨 I'm especially interested in multisensory projects, e.g. music + lighting.
-- 📫 How to reach me: @queeratheist on Twitter.
